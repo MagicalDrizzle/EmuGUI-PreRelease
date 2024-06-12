@@ -1,3 +1,5 @@
+Check `platformSpecific` folder for changes!
+
 # EmuGUI
 What should I say? I didn't like the existing QEMU interfaces for Windows, so I made my own.
 
